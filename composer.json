@@ -1,0 +1,24 @@
+{
+	"name" : "appsonline/coro",
+	"type" : "Library",
+	"description" : "Coro Library Application",
+	"license" : "BSD-3-Clause",
+	"keywords" : [
+		"coroApplication"
+	],
+	"homepage" : "https://appsonline.eu/coro-app",
+	"authors" : [{
+			"homepage" : "https://www.appsonline.eu"
+		}
+	],
+	"autoload" : {
+		"psr-4" : {
+			"Xento\\" : "src/"
+		}
+	},
+	"require" : {
+		"php" : "^5.6 || ^7.0"
+	},
+	"minimum-stability" : "dev",
+	"prefer-stable" : true
+}
