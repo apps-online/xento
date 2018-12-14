@@ -1,12 +1,12 @@
 {
-	"name" : "appsonline/coro",
+	"name" : "appsonline/xento",
 	"type" : "Library",
-	"description" : "Coro Library Application",
+	"description" : "Xento Library Application",
 	"license" : "BSD-3-Clause",
 	"keywords" : [
-		"coroApplication"
+		"xentoApplication"
 	],
-	"homepage" : "https://appsonline.eu/coro-app",
+	"homepage" : "https://appsonline.eu/xento-app",
 	"authors" : [{
 			"homepage" : "https://www.appsonline.eu"
 		}
