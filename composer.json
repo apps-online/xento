@@ -4,10 +4,11 @@
 	"description" : "Xento Library Application",
 	"license" : "BSD-3-Clause",
 	"keywords" : [
-		"xentoApplication"
+		"coroApplication"
 	],
-	"homepage" : "https://appsonline.eu/xento-app",
+	"homepage" : "https://appsonline.eu/coro-app",
 	"authors" : [{
+		  "name" : "MK",
 			"homepage" : "https://www.appsonline.eu"
 		}
 	],
