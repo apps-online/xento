@@ -7,11 +7,6 @@
 		"xentoApplication"
 	],
 	"homepage" : "https://appsonline.eu/xento-app",
-	"authors" : [{
-		  "name" : "MK",
-			"homepage" : "https://www.appsonline.eu"
-		}
-	],
 	"autoload" : {
 		"psr-4" : {
 			"Xento\\" : "src/"
