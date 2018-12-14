@@ -1,0 +1,25 @@
+{
+	"name" : "appsonline/xento",
+	"type" : "Library",
+	"description" : "Xento Library Application",
+	"license" : "BSD-3-Clause",
+	"keywords" : [
+		"xentoApplication"
+	],
+	"homepage" : "https://appsonline.eu/xento-app",
+	"authors" : [{
+		  "name" : "MK",
+			"homepage" : "https://www.appsonline.eu"
+		}
+	],
+	"autoload" : {
+		"psr-4" : {
+			"Xento\\" : "src/"
+		}
+	},
+	"require" : {
+		"php" : "^5.6 || ^7.0"
+	},
+	"minimum-stability" : "dev",
+	"prefer-stable" : true
+}
