@@ -1,5 +1,5 @@
 {
-	"name" : "appsonline/xento",
+	"name" : "xento/app",
 	"type" : "Library",
 	"description" : "Xento Library Application",
 	"license" : "BSD-3-Clause",
@@ -9,7 +9,7 @@
 	"homepage" : "https://appsonline.eu/xento-app",
 	"autoload" : {
 		"psr-4" : {
-			"Xento\\" : "src/"
+			"App\\" : "src/"
 		}
 	},
 	"require" : {
